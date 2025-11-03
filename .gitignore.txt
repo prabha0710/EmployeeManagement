@@ -1,0 +1,17 @@
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+
+# Temporary files
+*.log
+*.tmp
+
+# Publish output
+publish/
