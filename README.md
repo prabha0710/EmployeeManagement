@@ -19,8 +19,9 @@ The system demonstrates the implementation of CRUD operations, database connecti
 ## Technologies Used
 | Category | Technologies |
 |-----------|--------------|
-| Framework | ASP.NET Core |
+| Framework | ASP.NET |
 | Language | C# |
+| BackEnd | Ado.net |
 | Database | Microsoft SQL Server |
 
 ---
